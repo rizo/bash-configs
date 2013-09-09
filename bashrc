@@ -1,4 +1,4 @@
-PS1='\e[34m▸\e[0m '
+PS1='\e[34m:\e[0m '
 
 PATH=.:$PATH
 
